@@ -1,22 +1,15 @@
-SOC Learning Lab
-Laboratorio personal para aprender:
+Cybersecurity Lab
+Laboratorio personal para aprender ciberseguridad desde cero.
 
-Linux
-Redes
-Git y GitHub
-Docker
-Terraform
-Wazuh
-Detección de amenazas
-SOC Operations
 Roadmap
-Linux Básico
-Redes Básicas
-Git y GitHub
+Linux Fundamentals
+Networking
+Linux Permissions
+Processes and Services
+Log Analysis
 Docker
-Terraform
 Wazuh
-Casos de detección
-Automatización
-Objetivo
-Convertirme en analista SOC construyendo y documentando un laboratorio desde cero.
+Detection Engineering
+Kali Linux Fundamentals
+Objetivo final
+Construir un entorno SOC completo y documentado en GitHub.
